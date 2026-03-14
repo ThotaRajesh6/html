@@ -19,4 +19,7 @@
 15.Sub Tag-<sub></sub>
 16.super Tag-<sup></sup>
 17.Strong Tag-<strong></strong>
+18.Viedio Tag-<viedio control>
+19.Source Tag-<source src="">
+20.Audio Tag-<audio control>
 
