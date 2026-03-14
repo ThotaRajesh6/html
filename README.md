@@ -12,3 +12,11 @@
 8.List Tag-<li></li>
 9.Order List-<ol></ol>
 10.Unorder List-<ul></ul>
+11.Mark Tag-<mark></mark>
+12.Delete Tag-<del></del>
+13.Insert Tag-<ins></ins>
+14.Bold Tag-<b></b>
+15.Sub Tag-<sub></sub>
+16.super Tag-<sup></sup>
+17.Strong Tag-<strong></strong>
+
