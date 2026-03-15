@@ -39,4 +39,12 @@
 6.select tag- <select></select>
 7.option tag-<option></option>
 
+Table:-
+1.Table tag-<table></table>
+2.Table header tag-<th></th>
+3.Table row tag-<tr></tr>
+4.Table data-<td></td>
+5.Border -<table border="number">
+
+
 
