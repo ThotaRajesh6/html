@@ -23,3 +23,20 @@
 19.Source Tag-<source src="">
 20.Audio Tag-<audio control>
 
+
+15-03-2026  Forms Tags 
+1.Label tag-<label></label>
+2.input tag-<input>
+3.button tag-<button></button>
+4. placeholder attributes- placeholder=""
+5. type attribute-type=""
+5.1-checkbox-type="checkbox"
+5.2-radio -type="radio"
+5.3-text-type="text"
+5.4-password-type="password"
+5.5-email -type="email"
+5.6-number-type="number"
+6.select tag- <select></select>
+7.option tag-<option></option>
+
+
