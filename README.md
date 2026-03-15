@@ -46,5 +46,15 @@ Table:-
 4.Table data-<td></td>
 5.Border -<table border="number">
 
+Order list and unorder list:-
+1.order list tag-<ol></ol>
+1.1 order number - <ol type="1">
+1.2 order alphabets - <ol type="A">
+1.3 Order Roman numbers -<ol type="i">
+
+2.Unorderlist tag- <ul></ul>
+2.1 unorder square-<ul type="square">
+2.2 unorder circle-<ul type="circle">
+
 
 
